@@ -1,10 +1,10 @@
 {
   "customComponentItems": {
-    "mingdaoyunAIAssistant": {
-      "name": "mingdaoyunAIAssistant",
+    "mingdaoyunAI": {
+      "name": "mingdaoyunAI",
       "imagePath": "preview/assistant.png",
       "description": "ZhipuAi sse-问答"
     }
   },
-  "version": "1.0.1"
+  "version": "1.0.0"
 }
