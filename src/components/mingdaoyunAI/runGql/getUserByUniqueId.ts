@@ -1,8 +1,5 @@
 import { runGql } from "./runGql";
-interface chatLog {
-  role: string;
-  content: string;
-}
+
 const gql = `query user($uuid:String){
     user(where: {uuid:{_eq:$uuid}}) {
       id

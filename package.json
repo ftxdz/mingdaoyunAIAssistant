@@ -23,6 +23,7 @@
     "@originjs/vite-plugin-federation": "^1.2.2",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.1",
+    "@types/uuid": "^9.0.6",
     "@typescript-eslint/eslint-plugin": "^5.59.1",
     "@typescript-eslint/parser": "^5.59.1",
     "@vitejs/plugin-react": "^4.0.0",

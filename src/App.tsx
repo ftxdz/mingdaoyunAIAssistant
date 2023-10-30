@@ -1,4 +1,3 @@
-import { ZhipuAi } from "./components/mingdaoyunAI/ZhipuAi";
 import { MingdaoyunAI } from "./components/mingdaoyunAI";
 import "./App.scss";
 import { BrowserRouter } from "react-router-dom";
