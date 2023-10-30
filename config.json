@@ -1,27 +1,9 @@
 {
   "customComponentItems": {
-    "ZhipuAi": {
-      "name": "ZhipuAi",
+    "mingdaoyunAIAssistant": {
+      "name": "mingdaoyunAIAssistant",
       "imagePath": "preview/assistant.png",
-      "description": "ZhipuAi sse-问答",
-      "itemInputs": [
-        {
-          "fieldName": "chat_config",
-          "type": "TEXT"
-        },
-        {
-          "fieldName": "isSend",
-          "type": "BOOLEAN"
-        },
-        {
-          "fieldName": "token",
-          "type": "TEXT"
-        },
-        {
-          "fieldName": "api_key",
-          "type": "TEXT"
-        }
-      ]
+      "description": "ZhipuAi sse-问答"
     }
   },
   "version": "0.0.1"

@@ -1,3 +1,3 @@
-import { ZhipuAi } from './ZhipuAi';
+import {MingdaoyunAI}   from './mingdaoyunAI';
 
-export default { ZhipuAi };
+export default { MingdaoyunAI };
