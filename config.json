@@ -4,8 +4,13 @@
       "name": "MingdaoyunAI",
       "imagePath": "preview/assistant.png",
       "description": "ZhipuAi sse-问答",
-      "itemInputs":null
+      "itemInputs": [
+        {
+          "fieldName": "123",
+          "type": "TEXT"
+        }
+      ]
     }
   },
-  "version": "1.2.0"
+  "version": "1.2.1"
 }
