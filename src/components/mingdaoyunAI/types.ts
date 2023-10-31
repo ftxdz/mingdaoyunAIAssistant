@@ -10,7 +10,7 @@ export interface chatProps {
  * assistantContent
  */
 export interface chatGlobalData {
-  inputStatus: string;
-  userId: bigint;
-  assistantAnswer:string;
+  input_status: string;
+  user_id: bigint;
+  assistant_answer:string;
 }

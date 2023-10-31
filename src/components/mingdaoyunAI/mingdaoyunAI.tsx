@@ -70,7 +70,7 @@ export function MingdaoyunAI(props: chatProps) {
     if (chatStart) {
       chatStart = false;
       console.log("开始chatCompletion", props);
-      if (!globalData.userId) return;
+      if (!globalData.user_id) return;
       const inputStatus = props.globalData.inputStatus;
       console.log(inputStatus);
       if (inputStatus === inputStatusEnum.start) {
@@ -79,7 +79,7 @@ export function MingdaoyunAI(props: chatProps) {
           ...props.globalData,
           inputStatus: inputStatusEnum.inProgress,
         });
-        chatCompletion(globalData.userId, props);
+        chatCompletion(globalData.user_id, props);
       }
     }
   }, [props.globalData.inputStatus]);
