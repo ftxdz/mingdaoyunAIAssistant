@@ -3,8 +3,9 @@
     "MingdaoyunAI": {
       "name": "MingdaoyunAI",
       "imagePath": "preview/assistant.png",
-      "description": "ZhipuAi sse-问答"
+      "description": "ZhipuAi sse-问答",
+      "itemInputs":null
     }
   },
-  "version": "1.1.0"
+  "version": "1.2.0"
 }
