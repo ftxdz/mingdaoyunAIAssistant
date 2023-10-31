@@ -1,1 +1,1 @@
-export * from './mingdaoyunAI.tsx';
+export * from './mingdaoyunAI';
